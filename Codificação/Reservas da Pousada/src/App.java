@@ -8,7 +8,8 @@ public class App {
         Quartos[] vetAluguel = new Quartos[10];
 
         System.out.println("Pousada do Professor Gilson - Bem Vindo(a)!");
-        // teste teste teste teste teste
+        
+        System.out.println("Ola ");
 
 
         sc.close();
